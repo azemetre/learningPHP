@@ -3,3 +3,4 @@
 composer*
 .htaccess
 app.txt
+vendor/
